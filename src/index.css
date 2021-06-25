@@ -17,3 +17,9 @@ body {
  font-size: 13px;
  font-family: 'Barlow Semi Condensed';
  }
+
+ @media screen and (min-width: 1000px ) {
+   body {
+     font-size: 16px;
+   }
+ }

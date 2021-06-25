@@ -1,7 +1,8 @@
 import React from 'react'
 import data from './Data'
 
-const Testimonials = () => {
+const Testimonials = (props) => {
+let isDesktop = props.isDesktop
     return (
        <>
         {data.map( (testimonial) => {
@@ -12,9 +13,10 @@ const Testimonials = () => {
                backgroundColor:  testimonial.backgroundColor,
                borderRadius: '11px',
                padding: '1.7rem',
-               width:'100%',
+               width:'95%',
                color: testimonial.textColor,
-               margin: '1.5rem auto'
+               margin: isDesktop?'0.7rem auto':'1.5rem auto',
+               gridArea: testimonial.area
             }}
             >
                 <div 
