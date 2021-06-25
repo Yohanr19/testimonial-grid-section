@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testimonial-grid-section/static/css/main.ccb9beb4.chunk.css",
+    "main.js": "/testimonial-grid-section/static/js/main.681310f6.chunk.js",
+    "main.js.map": "/testimonial-grid-section/static/js/main.681310f6.chunk.js.map",
+    "runtime-main.js": "/testimonial-grid-section/static/js/runtime-main.8e2a95f4.js",
+    "runtime-main.js.map": "/testimonial-grid-section/static/js/runtime-main.8e2a95f4.js.map",
+    "static/js/2.77b2a10f.chunk.js": "/testimonial-grid-section/static/js/2.77b2a10f.chunk.js",
+    "static/js/2.77b2a10f.chunk.js.map": "/testimonial-grid-section/static/js/2.77b2a10f.chunk.js.map",
+    "index.html": "/testimonial-grid-section/index.html",
+    "static/css/main.ccb9beb4.chunk.css.map": "/testimonial-grid-section/static/css/main.ccb9beb4.chunk.css.map",
+    "static/js/2.77b2a10f.chunk.js.LICENSE.txt": "/testimonial-grid-section/static/js/2.77b2a10f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2a95f4.js",
+    "static/js/2.77b2a10f.chunk.js",
+    "static/css/main.ccb9beb4.chunk.css",
+    "static/js/main.681310f6.chunk.js"
+  ]
+}
